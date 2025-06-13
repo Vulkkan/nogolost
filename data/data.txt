@@ -1,0 +1,296 @@
+Route: Gwagwalada → GSM Village
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle to Secretariat or Area 10. Inform the driver you'll stop at Traffic Light.
+3. At Traffic Light, cross to the opposite side of the road.
+4. GSM Village is nearby; take another vehicle or walk to your destination.
+
+Route: Gwagwalada → Gwarimpa
+1. Take a vehicle to Zuba and stop at Dei-Dei Park.
+2. At Dei-Dei Park, board a vehicle to Gwarimpa.
+
+Route: Gwagwalada → Life Camp
+1. Take a vehicle to Lugbe and stop at Federal Housing Junction.
+2. At Federal Housing Junction, ask transport union officers for vehicles to Life Camp (usually near Penthouse Estate).
+3. Once on board, inform the driver you'll stop at Life Camp.
+
+Route: Gwagwalada → Nile University of Nigeria
+1. Take a vehicle to Lugbe and stop at Federal Housing Junction.
+2. At Federal Housing Junction, ask transport union officers for vehicles to Life Camp (usually near Penthouse Estate).
+3. Board a Life Camp vehicle and inform the driver you'll stop at Nile University Junction.
+
+Route: Gwagwalada → Wuse Market
+1. If available, take a direct vehicle to Wuse Market.
+2. Alternatively, take a vehicle to Lugbe and stop at Police Signboard.
+3. At Police Signboard, board a vehicle to Wuse Market.
+
+Route: Gwagwalada → National Directorate of Employment
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle to Secretariat or Area 10. Inform the driver you'll stop at Traffic Light.
+3. At Traffic Light, cross to the opposite side of the road.
+4. The National Directorate of Employment is nearby; take another vehicle or walk.
+
+Route: Gwagwalada → Airport Junction (Jabi)
+1. Take a vehicle to Lugbe and stop at Federal Housing Junction.
+2. At Federal Housing Junction, ask transport union officers for vehicles to Airport Junction (usually near Penthouse Estate).
+3. Board a vehicle and inform the driver you'll stop at Airport Junction.
+
+Route: Gwagwalada → Magic Land
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle to Magic Land.
+3. Vehicles going to Secretariat, Area 10, or Wuse usually pass through Magic Land.
+
+Route: Gwagwalada → House on the Rock
+1. If available, take a direct vehicle to House on the Rock.
+2. Alternatively, take a vehicle to Lugbe and stop at Police Signboard.
+3. At Police Signboard, board a vehicle to House on the Rock.
+4. Vehicles going to Secretariat, Area 10, or Wuse usually pass through House on the Rock.
+
+Route: Gwagwalada → ITF Gwagwalada Area Office
+1. Take a vehicle to Lugbe and stop at Energy House (before Glory Dome, Dunamis).
+2. Upon arrival at Energy House, walk inside—the ITF Gwagwalada Area Office is within the premises.
+
+Route: Gwagwalada -> Banex Plaza -> If you're not in a hurry, you may find a vehicle going directly to Wuse.
+
+Route: Tunganmaje -> House on the Rock
+1. If you're not in a hurry, you may find a vehicle going directly to House on the Rock. 
+2. Alternatively, take a vehicle to Lugbe and stop at Police Signboard.
+3. At Police Signboard, board a vehicle heading to House on the Rock. Vehicles going to Secretariat, Area 10, or Wuse usually pass through House on the Rock.
+
+Route: Tunganmaje -> Magic Land
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle heading to Magic Land. Vehicles going to Secretariat, Area 10, or Wuse usually pass through Magic Land.
+
+Tunganmaje -> Wuse Market -> 
+1. If you're not in a hurry, you may find a vehicle going directly to Wuse Market.
+2. Alternatively, take a vehicle to Lugbe and stop at Police Signboard.
+3. At Police Signboard, board a vehicle heading to Wuse Market.
+
+Route: Tunganmaje -> GSM Village -> 
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle heading to Secretariat or Area 10 and stop at Traffic Light.
+3. Cross to the opposite side of the road.
+4. Take another vehicle to GSM Village.
+
+Route: Tunganmaje -> Life Camp -> 
+1. Take a vehicle to Zuba and stop at Dei-Dei Park.
+2. At Dei-Dei Park, board a vehicle going to Gwarinpa and stop at Galadima Gate.
+3. At Galadima Gate, take a tricycle to Life Camp.
+
+Route: Tunganmaje -> Nile University of Nigeria -> 
+1. Take a vehicle to Lugbe and stop at Federal Housing Junction.
+2. At Federal Housing Junction, board a vehicle heading toward Life Camp.
+3. Stop at Nile University Junction.
+
+Route: Tunganmaje -> Kwali -> 
+1. Take a vehicle to Gwagwalada and stop at Park Road.
+2. At Park Road, board a vehicle heading to Kwali.
+
+Route: Tunganmaje -> Kubwa -> 
+1. If you are not in a hurry, you may find a vehicle going directly to Kubwa.
+2. Alternatively, take a vehicle to Zuba and stop at Dei-Dei Park.
+3. At Dei-Dei Park, board a vehicle to Kubwa.
+
+Route: Tunganmaje -> Piwoyi -> 
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle heading to Piwoyi. Vehicles going to Area 1, Secretariat, Area 10, Wuse, or Berger usually pass through Piwoyi.
+
+Route: Tunganmaje -> Chika -> 
+1. Take a vehicle to Lugbe and stop at Police Signboard.
+2. At Police Signboard, board a vehicle heading to Chika. Vehicles going to Area 1, Secretariat, Area 10, Wuse, or Berger usually pass through Chika.
+
+Route: Tunganmaje -> Gwarinpa -> 
+1. If you're not in a hurry, you may find a vehicle going directly to Gwarinpa.
+2. Alternatively, take a vehicle to Zuba and stop at Dei-Dei Park.
+3. At Dei-Dei Park, board a vehicle to Gwarinpa.
+
+
+Route: Tunganmaje to Kuje:
+1. Take a vehicle to Sauka. Vehilces going to Lugbe or Area 1 usually pass through Sauka, so you can take any of these and inform the driver of your stop.
+2. At Sauka, take a vehicle going to Kuje and inform the driver of your stop.
+
+Route: Glory Dome (Dunamis) to Tunganmaje: take a vehicle going to Lugbe and inform the driver you'll be stopping at Glory Dome (Dunamis).
+
+Route: Tunganmaje to Dei-Dei:
+1. If you're not in a hurry, you may like
+
+Route: Gwagwalada to Gudu 
+1. Take Car from SDP Gwagwalada going to Area 1
+2.Drop at Apo bridge 
+3.Cross to the right 
+4.Get cars going to Gudu
+
+Route: Gwagwalada to Garki 2 
+1. Take Car from SDP Gwagwalada going to Area 1
+2. Drop at Apo bridge 
+3. Cross to the left and go up 
+You'll find cars going to Old market and New market differently 
+4.  Take a car going old market 
+5. The cars move past Garki 2 
+
+Route: Gwagwalada to Area 11
+Take Car from SDP Gwagwalada going to Area 1
+Drop at Area 1 bridge 
+Come down the bridge and go left towards the park 
+You'll find cars going to Area 11
+
+Route: Gwagwalada to Area 11
+1. Take Car from SDP Gwagwalada going to Area 1
+2. Drop at Area 1 bridge 
+3Come down the bridge and go left towards the park 
+You'll find cars going to Area 11
+
+Route: Gwagwalada to Utako
+1. Route Utako from Gwagwalada, 
+2. Take a cab going to begger from SDP or Al Rufia Park opposite Govt Day. 
+3. from begger, take a cab to Utako.
+
+Route: Gwagwalada to Jabi, 
+1. Take a cab going to begger from SDP or Al Rufia Park opposite Govt Day
+2. then from begger take a cab to Jabi.
+
+Route: Gwagwalada to NYSC secretariat in Maitama,
+1. Take a cab from SDP to police sign board at Lugbe, 
+2.  From there, take another cab going to secretariat once you stop at secretariat, 
+3. Cross to the other lane and take a cab to Maiatama 
+4. Tell the driver that you will stop at NYSC secretariat.
+
+Route: Gwagwalada to Wuse 3, 
+1. Take a cab to Begger from SDP or Al Rufia park opposite Govt Day, 
+2. Then take a cab from begger to Wuse 3
+
+Route: Mpape to Abacha barracks (Nigeria air force valley Naf valley)
+1. Take yanya cab  from the park to AYA round about 
+2. Then take a cab  Abacha Bridge, 
+3. Cross to the other side and take Keke  to the estates
+
+Route: Gwagwalada to Wuse 2 
+1. Take Car from SDP Gwagwalada going to Berger
+2. Drop at Berger bridge 
+3. Walk right towards the bus park 
+4. You'll find cars going to Wuse 2
+
+Route Kubwa to Garki 11: 
+1. Board a bus or vehicle going to Area 1, and tell the driver to stop you at Apo roundabout.
+2. When you get there, cross to the roundabout on other side of the road, where cars are parked. 
+3. Then enter a car (Along) to Garki 11. Name the street you're headed to before boarding.
+
+Route Wuye to Garki 11: 
+1. Take a Keke vehicle, tell him to stop you at the 'bridge'. 
+2. At the bridge, take a car going to Area 1, and tell the driver to stop you at Apo roundabout. 
+3. The roundabout is on the other side of the road, so cross and walk towards the roundabout, where vehicles are parked. 
+4. Take a vehicle (Along) going to Garki 11, and name the street you're headed to before boarding.
+
+Route Wuye from one-man village:
+1. Take a Keke vehicle, tell him to stop you at the 'bridge'. 
+2. At the bridge, take a car going to Area 1. 
+3. At Area 1, take a bus going to either to Ado directly, or Mararaba. 
+If you are stopped at Mararaba, take a Keke vehicle to Ado.
+
+Route Kubwa to Garki 11:
+1. Board a bus or vehicle going to Area 1, and tell the driver to stop you at Apo roundabout.
+2. When you get there, cross to the roundabout on other side of the road, where cars are parked. 
+3. Then enter a car (Along) to Garki 11, and name the street you're headed to.
+
+Route Ado to Area 11:
+1. Board a bus or car going to Area 1, and get to the final bus stop.
+2. When you get there, walk down to the car park in front. 
+3. At the car park, walk down again across the park till you get to the road upfront.
+4. Turn left and enter a vehicle going to Area 11.
+
+Route Gwagwalada to Ado:
+1. Take a bike going to SDP junction. 
+2. At the junction, walk down to where cars are parked going to Area 1.
+3. When you get to Area 1, take a bus or car going to Ado.
+
+Route Mararaba to Wuye:
+1. Take a vehicle going to Berger. You would go all the way to the last bus stop, which is Berger filling station. 
+2. Facing the road from the filling station, walk rightwards towards the bridge. 
+3. From the bridge, walk onwards and straight ahead till you get to the traffic lights junction.
+4. Cross to the other side of the road where Keke vehicles are parked. 
+5. Take a Keke vehicle going to Wuye.
+
+Route Gwagwalada to KWALI:
+ 1. From anywhere in Gwagwalada, take a bike to park road.
+ 2. At park road board a vehicle that is going to Kwali.
+ 3. Once you arrived at Kwali, take a bike to reach your destination.
+
+Route: Gwagwalada to Abaji:
+ 1. From anywhere in Gwagwalada, take a bike to park road.
+ 2. At park road board a vehicle that is going to Abaji.
+ 3. Once you arrived at Abaji, take a bike to reach your destination.
+
+Route Gwagwalada to Sheda:
+ 1. From anywhere in Gwagwalada, take a bike to park road.
+ 2. At park road board a vehicle that is going to Sheda.
+ Once you arrived at Sheda, take a bike to reach your destination.
+
+Route: Gwagwalada to BWARI:
+ 1. From anywhere in Gwagwalada, take a bike to SDP.
+ 2. (Route 1) At SDP board a vehicle that is going to BWARI.
+ 3. Once you arrived at Sheda, take a bike to reach your destination.
+
+Route: GWAGWALADA to DAWAKI:
+ 1. From anywhere in Gwagwalada, take a bike that is going to SDP.
+ 2. At SDP board a vehicle that’s going to dutse alhaji, you’ll be stopping at Dutse Alhaji Market (first gate).
+ 3. From there board take a bike to anywhere in Dawaki.
+
+Route Gwagwalada to Dutse Alhaji:
+ 1. From anywhere in Gwagwalada, take a bike to SDP.
+ 2. At SDP board a vehicle that is going to Dutse Alhaji.
+ 3. Once you arrived at Dutse Alhaji, take a bike to reach your destination.
+
+Route Kubwa to Kwali:
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA)
+ 2. At express board a vehicle that is going to Sheda.
+ Once you arrived at Sheda, take a bike to reach your destination.
+
+Route Kubwa to Abaji:
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA).
+ 2. At express board a vehicle that is going to Zuba, once you arrived at Zuba, board another vehicle that is going to Gwagwalada.
+ 3. From Gwagwalada (park road), board a vehicle that is going to Abaji/ Lokoja. From there take a bike to reach your destination.
+
+Route Kubwa to Bwari
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA).
+ 2. At express board a vehicle that is going to Gwarinpa/town, tell the driver that you will drop at Dutse junction, cross to the other side, At the junction board a vehicle that is going to Bwari. From there take keke or Bike to your destination.
+
+Route Kubwa to Bwari
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA).
+ 2. At the express board a vehicle that is going Gwarinpa, drop at Dawaki Junction, from there take bike or keke to your destination.
+
+Route Dutse Alhaji to Kubwa:
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA).
+ 2. At the express board a vehicle that is going to Dutse Alhaji, drop at dutse alhaji Market or anywhere close to your destination and take bicycle to your destination.
+
+Route Berger to Kubwa:
+ 1. Berger at the total filling station, move a little, from there board a vehicle that is going to Kubwa.
+ 2. Once getting to Kubwa, take keke or Bike to your destination.
+
+Route Gudu to Kubwa;
+ 1. From Gudu take a taxi to Berger and drop at the total filling station, move a little, from there board a vehicle that is going to Kubwa
+ 2. Once getting to Kubwa, take keke or Bike to your destination.
+
+Route Dutse Alhaji from Gudu;
+ 1. From Gudu take a taxi to Berger and drop at the total filling station, move a little, from there board a vehicle that is going to Kubwa.
+ 2. Inform the driver that you are stopping at dutse Junction.
+ 3. Once getting there, take keke or Bike to your destination.
+
+Route Wuse Zone 2 to Kubwa:
+ 1. From Wuse 2 take a taxi to Berger and drop at the total filling station, move a little, from there board a vehicle that is going to Kubwa.
+ 2. Inform the driver that you are stopping at dutse Junction.
+ 3. Once getting there, take keke or Bike to your destination.
+
+Route Galadimawa to Kubwa;
+ 1. From Galadimawa, take keke to Apo bridge
+ 2. From there board a vehicle that is going to kubwa.
+ 3. Once getting to kubwa take a keke or bike to your destination.
+
+Route Gwagwalada to University of Abuja Main Campus.
+ 1. From anywhere in gwagwalada, take a bike to university of Abuja Mini campus, from there, enter the campus and go to shuttle ground.
+ 2. Board a shuttle that is going to main campus.
+ 3. Once getting to Main Campus, take keke to your destination.
+
+Route: Kubwa to University of Abuja Main Campus:
+ 1. From anywhere in Kubwa, take a bike or keke to express (NNPC/NYSC/Arab Junction/Phase 3/ FHA).
+ 2. At the express board a vehicle that is going to Zuba (under bridge).
+ 3. Once getting to Zuba, board another vehicle that is going to Lugbe and inform the driver that you will be stopping at P-site/ permanent site.
+ 4. Once getting to P-site, take keke to any of your destination.

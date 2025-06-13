@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+
+    <!--Bootstrap style-->
+    <link href="{{ request.url_for('static', path='styles/bootstrap/bootstrap.min.css') }}" rel="stylesheet" />
+    <link href="{{ request.url_for('static', path='styles/bootstrap/main.css') }}" rel="stylesheet" type="text/css" />
+
+    <link href="{{ request.url_for('static', path='styles/components/splash-style.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ request.url_for('static', path='styles/shared-styles.css') }}" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="onboarding-container">
+        <!--Logo-->
+        <div class='img-background'>
+            <img src="{{ request.url_for('static', path='images/textlogo.png') }}" class="onboarding-img">
+        </div>
+        
+        <div>
+            <p>Experience smarter<br>
+                transportation with nogolost.</p>
+        </div>
+
+        <div style='display: flex; flex-direction: column; gap: 5px'>
+            <!--Sign up button-->
+            <a href="{{ url_for('signup_page') }}">
+                <button class="button">
+                    Sign up for free
+                </button>
+            </a>
+            <!--Sign in button-->
+            <a href="{{ url_for('signin_page') }}">
+                <button class="button-secondary" style="margin-top: -80px;">
+                    Sign in
+                </button>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

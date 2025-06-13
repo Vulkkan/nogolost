@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auth - Nogolost</title>
+
+    <!--Bootstrap style-->
+    <link href="{{ url_for('static', path='styles/bootstrap/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', path='styles/bootstrap/main.css') }}" rel="stylesheet" type="text/css" />
+    
+    <link href="{{ url_for('static', path='styles/components/auth-style.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', path='styles/shared-styles.css') }}" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="container">
+
+        <h1 class="asad" id="heading">Sign In</h1>
+        <div class="under-line" id="under-line"></div>
+
+        <div class="form" style='display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 50px'>
+            <a href="{{ url_for('chat_page') }}">
+                <button class="button-secondary" style='width: 295px;'>
+                    <span><img src="{{ url_for('static', path='images/icons/filled/google.svg') }}" class="button-icon"></span>
+                    Google
+                </button>
+            </a>
+
+            <a href="{{ url_for('chat_page') }}">
+                <button class="button-secondary" style='width: 295px;'>
+                    <span><img src="{{ url_for('static', path='images/icons/filled/gmail.png') }}" class="button-icon"></span>
+                    Gmail
+                </button>
+            </a>
+
+            <a href="{{ url_for('chat_page') }}">
+                <button class="button-secondary" style='width: 295px;'>
+                    <span><img src="{{ url_for('static', path='images/icons/filled/apple.svg') }}" class="button-icon"></span>
+                    Apple
+                </button>
+            </a>
+        </div>
+
+        <a href="{{ url_for('signup_page') }}">
+            <button class="button-secondary">Switch to sign up</button>
+        </a>
+        
+    </div>
+
+    <script src="{{ url_for('static', path='js/auth-script.js') }}"></script>
+</body>
+</html>

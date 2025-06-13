@@ -1,0 +1,72 @@
+:root{
+    /* --primary-col-lighter: #f4f4f4; */
+    --primary-col-lighter: #f0f0e9;
+    /* --primary-col: #c49d0e; */
+    /* --primary-col: #5a4700; */
+    --primary-col: #342900;
+    --btn-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+    --btn-shadow-hovrd: 0 6px 6px rgba(0, 0, 0, 0.2);
+}
+
+/*-----------------------------------*\
+ * #THEME COLORS
+\*-----------------------------------*/
+
+body.dark_theme {
+    color: white;
+}
+
+.body, html {
+    font-family: "Segoe UI", sans-serif;
+}
+
+.button-icon {
+    width: 26px;
+}
+
+.button {
+    /* width: 100px; */
+    color: white; background-color: var(--primary-col);
+    padding: 8px 22px; margin-bottom: 10px;
+    box-shadow: var(--btn-shadow);
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: 1s;
+}
+.button:hover {
+    box-shadow: var(--btn-shadow-hovrd);
+    transition-duration: 200ms;
+}
+.button-secondary {
+    color: var(--primary-col); background-color: var(--primary-col-lighter);
+    padding: 8px 22px; margin-bottom: 10px;
+    box-shadow: var(--btn-shadow);
+    font-size: 15px; font-weight: 500;
+    cursor: pointer;
+    border: 0px solid #9f831b;
+    border-radius: 10px;
+    transition: 1s;
+}
+.button-secondary:hover {
+    box-shadow: var(--btn-shadow-hovrd);
+    transition-duration: 200ms;
+}
+
+.logo-txt-black {
+    color: black;
+    display: inline-block;
+    width: calc(100% - 50px);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.logo-txt-white {
+    color: white;
+    display: inline-block;
+    width: calc(100% - 50px);
+    font-weight: bold;
+    font-size: 20px;
+}
+

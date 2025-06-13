@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nogolost Chat</title>
+
+  <!--Bootstrap style-->
+  <link href="{{ request.url_for('static', path='styles/bootstrap/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+  <link href="{{ request.url_for('static', path='styles/bootstrap/main.css') }}" rel="stylesheet" type="text/css" />
+  <!--Chatbot screen style-->
+  <link href="{{ request.url_for('static', path='styles/components/chat-style.css') }}" rel="stylesheet" type="text/css" />
+  <!--Shared style-->
+  <link href="{{ request.url_for('static', path='styles/shared-styles.css') }}" rel="stylesheet" type="text/css" />
+  <!--JS-->
+  <script src="{{ request.url_for('static', path='js/jquery-3.1.1.min.js') }}"></script>
+  <script src="{{ request.url_for('static', path='js/bootstrap.min.js') }}"></script>
+</head>
+
+
+<body>
+  <div class="chat-screen">
+    <div class="chat-header">
+
+      <div class="chat-header-title">
+        <img src="{{ url_for('static', path='images/icons/burger.svg') }}" class="header-icon">
+
+        <img src="{{ url_for('static', path='images/logo.png') }}" class="header-icon">
+          nogolost
+      </div>
+      
+      <!-- <div class="custom-control custom-switch" style="margin-right: 30px;">
+        <input type="checkbox" class="custom-control-input" id="darkSwitch" />
+        <label class="custom-control-label" for="darkSwitch">Theme</label>
+      </div>
+      <script src="dark-mode-switch.min.js"></script> -->
+
+    </div> <!-- Chat header -->
+
+    <!-- Chat body-->
+    <div class="chat-body scrollbar-hover w-100 msger-chat" id="scroller">
+
+    </div>
+
+    <!-- Input field-->
+    <div class="chat-input">
+      <form class="msger-inputarea">
+        <input type="text" autocomplete="off" class="msger-input" id="textInput" placeholder="I'm going to..."/>
+
+        <div class="input-action-icon">
+          <button type="submit" class="bg-transparent border-0 msger-send-btn text-muted">
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 24 24" fill="#413800FF"
+              stroke="#413800FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+              class="feather feather-send">
+              <line x1="22" y1="2" x2="11" y2="13"></line>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+          </button>
+        </div>
+      </form>
+
+    </div> <!-- Input field-->
+  </div> <!-- Chat screen -->
+  <!-- Chat Bot UI Ends -->
+
+
+  <script src="{{ request.url_for('static', path='js/theme.js') }}"></script>
+  <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
+  <script>
+
+    const msgerForm = get(".msger-inputarea");
+    const msgerInput = get(".msger-input");
+    const msgerChat = get(".msger-chat");
+
+    /*const BOT_IMG = "static/images/logo.svg"
+    const PERSON_IMG = "static/images/bot.svg"*/
+    const BOT_NAME = "nogolost";
+    const PERSON_NAME = "You";
+
+
+    msgerForm.addEventListener("submit", event => {
+      event.preventDefault();
+
+      const msgText = msgerInput.value;
+      if (!msgText) return;
+
+      appendMessage(PERSON_NAME, "left", msgText);
+      msgerInput.value = "";
+      botResponse(msgText);
+    });
+
+    /*-------------------- Append message ---------------------*/
+    function appendMessage(name, side, text) {
+        const msgHTML = `
+        <div class="msg ${side}-msg">
+          <div class="msg-img"></div>
+
+          <div class="chat-bubble me">
+            <div class="msg-info d-flex justify-content-between">
+              <div class="msg-info-name pr-2"> <b>${name}</b> </div>
+              <div class="msg-info-time">${formatDate(new Date())}</div>
+            </div>
+
+            <div class="msg-text">${text}</div>
+          </div>
+        </div>
+        `;
+
+      msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+      msgerChat.scrollTop += 500;
+    }
+
+    // Interacts with the backend to return Bot response
+    function botResponse(rawText) {
+          $.post("/get", JSON.stringify({ msg: rawText }), function (data) {
+              const msgText = data.replace(/\n/g, "<br>");
+              appendMessage(BOT_NAME, "right", msgText);
+          }, "html");
+      }
+
+    // Utils
+    function get(selector, root = document) {
+      return root.querySelector(selector);
+    }
+
+    function formatDate(date) {
+      const h = "0" + date.getHours();
+      const m = "0" + date.getMinutes();
+
+      return `${h.slice(-2)}:${m.slice(-2)}`;
+    }
+
+  </script>
+</body>
+</html>

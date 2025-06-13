@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auth - Nogolost</title>
+
+    <!--Bootstrap style-->
+    <link href="{{ url_for('static', path='styles/bootstrap/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', path='styles/bootstrap/main.css') }}" rel="stylesheet" type="text/css" />
+    
+    <link href="{{ url_for('static', path='styles/components/auth-style.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', path='styles/shared-styles.css') }}" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="container">
+
+        <h1 class="asad" id="heading">Sign Up</h1>
+        <div class="under-line" id="under-line"></div>
+
+        <div class="form" id="form">
+            <div class="name" id="name">
+                <i class="fa-solid fa-user"></i>
+                <input type="text" placeholder="Name">
+            </div>
+            <div class="email" id="email">
+                <i class="fa-solid fa-at"></i>
+                <input type="email" placeholder="Email">
+            </div>
+            <div class="password" id="password">
+                <i class="fa-solid fa-lock"></i>
+                <input type="password" placeholder="Password">
+            </div>
+        </div>
+
+        <p id="para">Password Suggestions? <br> <span>Click Here!</span></p>
+
+        <div class="buttons" id="buttons">
+            <button>Sign Up</button>
+            <button class="disabled">Sign In</button>
+        </div>
+
+        <button class="button-go" id="go">Go</button>
+        
+    </div>
+
+    <script src="{{ url_for('static', path='js/auth-script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+fastapi
+email-validator
+jinja2
+uvicorn
